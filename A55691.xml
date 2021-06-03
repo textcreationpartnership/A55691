@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A present ansvver to the late complaint unto the House of Commons. By divers members of the said House</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55691</idno><idno type="EEBO-CITATION">99829578</idno>
+  <idno type="VID">34018</idno>
+  <idno type="EEBO-PROQUEST">2240860788</idno>
+  
+            <idno type="STC">Wing P3235A</idno>
+            <idno type="STC">ESTC R217935</idno>
+            <idno type="PROQUEST">99829578</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99829578e"/>
+            <note>(EEBO-TCP ; phase 2, no. A55691)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34018)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1997:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A present ansvver to the late complaint unto the House of Commons. By divers members of the said House</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare M.DC.XLII. [1642, i.e. 1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication year is given according to Lady Day dating.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament. --  House of Commons --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1625-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil Wat, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">London (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Renee Mayes </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Renee Mayes</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:34018:1"/>
+            <pb facs="tcp:34018:1"/>
+            <p>A PRESENT ANSWER to the late COMPLAINT <hi>Ʋnto the House of</hi> COMMONS.</p>
+            <p>
+               <hi>By divers Members of the said House.</hi>
+            </p>
+            <p>
+               <hi>Printed in the Yeare</hi> M.DC.XLII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:34018:2"/>
+            <pb n="1" facs="tcp:34018:2"/>
+            <head>A PRESENT ANSWER to the late <hi>Complaint</hi> unto the House of Commons by diverse Members of the said House.</head>
+            <opener>
+               <salute>Friends, Countrimen, and Brethren,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Our very Patheticke <hi>Com<g ref="char:EOLhyphen"/>plaint</hi> we have received, and do so inwardly consider the too much Truth and cause thereof, that wee are allmost ashamed to amend, what can not be excused. wee for our parts (whose names are under-written) doe acknowledge your sharpe Truthes, wee wish our power had beene such as to have ob<g ref="char:EOLhyphen"/>tained
+<pb n="2" facs="tcp:34018:3"/>publique reading of your <hi>Complaint</hi> in the House, and publique thankes and satisfaction to you. But the most of our body have with<g ref="char:EOLhyphen"/>drawne themselves from the House, and are either with His Majesty, or returned to tbeir homes, as neither willing nor able to justify the present proceedings. and wee who are left here are so over-balanced that we are too few to help our selves, or you.</p>
+            <p>The truth of your instances is our sorrow, and the shame of our House. wherein our griefes and feares are many, lest our names be found re<g ref="char:EOLhyphen"/>corded to have sitten here, when these strange excesses make the land out of love with their Parliament. we shall onely answer to your <hi>Wishes</hi> and <hi>Resolution.</hi>
+            </p>
+            <pb n="3" facs="tcp:34018:3"/>
+            <p n="1">1 You wish that Iustice might pro<g ref="char:EOLhyphen"/>ceed upon <hi>Offending Members.</hi>
+            </p>
+            <p n="2">2 You wish this <hi>Parliament Dissol<g ref="char:EOLhyphen"/>ved.</hi>
+            </p>
+            <p n="3">3 You resolve to <hi>Reassume the Trust</hi> you have conferred.</p>
+            <p n="1">1 For the first <hi>Offending Members,</hi> we must decline the Character of them: yet you may easily find them: And you may iustly call for, nay re<g ref="char:EOLhyphen"/>quire, Iustice and the course of law upon them, we have no Priviledge more then your selves in case of Treason. His Majesty in his Decla<g ref="char:EOLhyphen"/>rations and Proclamations, hath shewen you the names of his, &amp; your, and all our great enemies. wee have no such Priviledge as to protect them from due, and lawfull tryall. And wee are of opinion that those few men, be<g ref="char:EOLhyphen"/>ing
+<pb n="4" facs="tcp:34018:4"/>taken and then legally condemn<g ref="char:EOLhyphen"/>ed or acquitted, the way of Peace would be much more open both for you and vs. You may therefore doe well to endeavour to take them all, and bring them to tryall.</p>
+            <p n="2">2 Concerning <hi>Dissolving this Parlia<g ref="char:EOLhyphen"/>ment,</hi> we intreat you to moderate that wish, and rather to try the amending of it thus. Our House hath made cru<g ref="char:EOLhyphen"/>ell use of an un-due power in dis<g ref="char:EOLhyphen"/>membring it selfe. You and all the Kingdome are interessed in that body of this house which was first elected and sworne. Call all your first Tru<g ref="char:EOLhyphen"/>stees in againe. Demand this of the House. It is a request both just and necessary. Our House being com<g ref="char:EOLhyphen"/>pleated with the full number of all our true members, we doubt not but to re<g ref="char:EOLhyphen"/>cover
+<pb n="5" facs="tcp:34018:4"/>your love and good esteeme, as amply and deservedly as in our first performances. And thus we may re<g ref="char:EOLhyphen"/>settle the land and stoppe this deluge of bloud, which else will drown us all.</p>
+            <p n="3">3 Lastly, if these two be denyed, we do then desire you and all the King<g ref="char:EOLhyphen"/>dome, to <hi>Reassume the Power</hi> which hath beene so abused; in doing where<g ref="char:EOLhyphen"/>of you shall redeeme us and your selves from a new bondage, and shall be sure of a new Parliament, before three yeares can be expired. Nay the goodnesse of the King will (upon our Petition, we speake it knowingly) is<g ref="char:EOLhyphen"/>sue writtes for a new convention, within threescore dayes.</p>
+            <p>
+               <hi>Do what is in your owne power for your selves and us, or the best Christian Kingdome in the world will become a desolation.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
